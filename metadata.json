@@ -1,0 +1,7 @@
+{
+  "name": "الكوز الاول - Network Security",
+  "description": "منصة اختبارات الكوز الاول لمادة أمن الشبكات (Network Security 150 MCQs) - إعداد: أحمد مثنى حسن، مع تصحيح فوري وانتقال تلقائي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
